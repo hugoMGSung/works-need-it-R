@@ -5,6 +5,8 @@
 # Session Data files
 .RData
 .Rproj
+*.Rproj
+.Rhistory
 
 # User-specific files
 .Ruserdata
@@ -40,3 +42,5 @@ vignettes/*.pdf
 .Renviron
 /*.Rproj
 /.Rproj*
+studyR/result_sales_dt.RData
+studyR/day4/ojdbc6.jar
